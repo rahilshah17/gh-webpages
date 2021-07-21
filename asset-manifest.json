@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gh-webpages/static/css/main.a617e044.chunk.css",
+    "main.js": "/gh-webpages/static/js/main.3708244b.chunk.js",
+    "main.js.map": "/gh-webpages/static/js/main.3708244b.chunk.js.map",
+    "runtime-main.js": "/gh-webpages/static/js/runtime-main.ef7289cf.js",
+    "runtime-main.js.map": "/gh-webpages/static/js/runtime-main.ef7289cf.js.map",
+    "static/js/2.97c16ed7.chunk.js": "/gh-webpages/static/js/2.97c16ed7.chunk.js",
+    "static/js/2.97c16ed7.chunk.js.map": "/gh-webpages/static/js/2.97c16ed7.chunk.js.map",
+    "static/js/3.38f50a28.chunk.js": "/gh-webpages/static/js/3.38f50a28.chunk.js",
+    "static/js/3.38f50a28.chunk.js.map": "/gh-webpages/static/js/3.38f50a28.chunk.js.map",
+    "index.html": "/gh-webpages/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gh-webpages/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.97c16ed7.chunk.js.LICENSE.txt": "/gh-webpages/static/js/2.97c16ed7.chunk.js.LICENSE.txt",
+    "static/media/DSCN3059.52592969.JPG": "/gh-webpages/static/media/DSCN3059.52592969.JPG",
+    "static/media/IMG_20170530_145343_1.83f8bd14.jpg": "/gh-webpages/static/media/IMG_20170530_145343_1.83f8bd14.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef7289cf.js",
+    "static/js/2.97c16ed7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3708244b.chunk.js"
+  ]
+}
